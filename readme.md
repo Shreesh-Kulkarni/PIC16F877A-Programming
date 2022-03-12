@@ -1,6 +1,6 @@
 Embedded Programming files for PIC16F877A microcontroller by microchip technologies.
 
-Files include various Peripheral Programming as well as makefiles and build files created by the MPLAB X IDE for microcontroller programming
+Files include various Peripheral Programming as well as makefiles and build files created by the MPLAB X IDE for microcontroller programming. The datasheets and schematics are included as well for reference
 
 This is a part of my internship on Embedded Systems and Microcontroller Program in Emertxe Information Technologies.
 
